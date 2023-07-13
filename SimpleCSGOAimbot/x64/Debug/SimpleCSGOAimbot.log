@@ -1,0 +1,4 @@
+﻿  SimpleCSGOAimbot.cpp
+C:\Users\batuhan\source\repos\SimpleCSGOAimbot\SimpleCSGOAimbot\SimpleCSGOAimbot.cpp(9,18): warning C4244: 'initializing': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\batuhan\source\repos\SimpleCSGOAimbot\SimpleCSGOAimbot\SimpleCSGOAimbot.cpp(10,18): warning C4244: 'initializing': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  SimpleCSGOAimbot.vcxproj -> C:\Users\batuhan\source\repos\SimpleCSGOAimbot\x64\Debug\SimpleCSGOAimbot.exe
