@@ -4,3 +4,7 @@ This project has been a part of my journey in learning C++ programming and explo
 
 **Showcase:**
 ![](https://github.com/semercioglu1/SimpleCSGOAimbot/blob/main/SimpleCSGOAimbot/Test/test.gif)
+
+## Credits
+
+- [hazedumper](https://github.com/frk1/hazedumper "to dump offsets")
