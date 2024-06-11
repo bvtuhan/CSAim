@@ -1,6 +1,6 @@
 # CSAim
 
-This  project is strictly for educational purposes only. Since it uses ReadProcessMemory WriteProcessMemory, it does not bypass VAC, and using it in online servers can lead to severe consequences, including  bans and potential legal action. 
+thats it, no more CSGO :( RIP old friend [2012-2023]
 
 **Showcase:**
 ![](https://github.com/semercioglu1/SimpleCSGOAimbot/blob/main/SimpleCSGOAimbot/Test/test.gif)
